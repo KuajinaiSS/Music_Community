@@ -2,7 +2,7 @@
 ## Backend
 ## Clonar el repositorio
 ```bash
-git clone [https://github.com/KuajinaiSS/backend_Community.git](https://github.com/KuajinaiSS/Music_Community.git)
+git clone https://github.com/KuajinaiSS/Music_Community.git
 ```
 
 ### Instalar Backend
