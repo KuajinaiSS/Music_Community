@@ -13,7 +13,7 @@ copy .env.example .env
 ### Configuraremos el .env con las credenciales de Mysql
 DB_USERNAME=root
 
-DB_PASSWORD=
+DB_PASSWORD=grethel2012@
 
 ```bash
 composer install
