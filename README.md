@@ -15,10 +15,15 @@ copiaremos el .env.example en un .env para configurarlo
 copy .env.example .env
 ```
 
-### Configuraremos el .env con las credenciales de Mysql
+Configuraremos el .env con las credenciales de Mysql, la seccion que modificaremos de debe de ver algo asi
+```bash
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=CommunityDB
 DB_USERNAME=root
-
-DB_PASSWORD=
+DB_PASSWORD=r<TU CONTRASEÑA>
+```
 
 configuraremos el proyecto
 ```bash
@@ -34,9 +39,7 @@ php artisan serve
 ```
 
 ## Frontend
-```bash
 
-```
 #### Instalación del Frontend
 
 accederemos al frontend por consola
