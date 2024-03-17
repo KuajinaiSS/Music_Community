@@ -4,7 +4,7 @@
 git clone https://github.com/KuajinaiSS/Music_Community.git
 ```
 
-## Instalar Backend
+## Backend
 accederemos al backend por consola
 ```bash
 cd backend_Community/backend
