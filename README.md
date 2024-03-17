@@ -22,7 +22,7 @@ DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=CommunityDB
 DB_USERNAME=root
-DB_PASSWORD=r<TU CONTRASEÑA>
+DB_PASSWORD=<TU CONTRASEÑA>
 ```
 
 configuraremos el proyecto
