@@ -33,7 +33,7 @@ php artisan migrate
 php artisan serve
 ```
 
-iniiciaremos el backend
+iniciaremos el backend
 ```bash
 php artisan serve
 ```
